@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MouseGame/Scenes/MainMenu.unity
+    guid: 33c07af2a168ae04ba6bc189285addcf
+  - enabled: 1
+    path: Assets/MouseGame/Scenes/Level1.unity
+    guid: 2c9ea22c0d474384d87c3543871f58ec
+  - enabled: 1
+    path: Assets/MouseGame/Scenes/Level2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/MouseGame/Scenes/Level3.unity
+    guid: 1a2c7cfbb761f4d4abd88fcd6af43ad7
+  - enabled: 1
+    path: Assets/MouseGame/Scenes/WinScene.unity
+    guid: 836ea4869b1a4f541960f3d8b2fe4115
+  m_configObjects: {}
